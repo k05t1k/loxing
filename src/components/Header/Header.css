@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.navigation li {
+    display: inline;
+}
+
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}

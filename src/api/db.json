@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Фрукты",
+      "name": "Яблоки 5 штук",
+      "image": "https://e1.edimdoma.ru/data/ingredients/0000/2374/2374-ed4_wide.jpg?1487746348",
+      "price": 99.99,
+      "description": "Самые классные яблоки от ашота ваншота."
+    },
+    {
+      "id": 2,
+      "category": "Фрукты",
+      "name": "Бананы 2 штуки",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVPW2Emxy0Y3q0Fkchn-5V0tziknldWP4pw&s",
+      "price": 149.99,
+      "description": "Премиум-бананы от того же ашота ваншота"
+    },
+    {
+      "id": 3,
+      "category": "Крупы",
+      "name": "Гречка",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetDIhekXu2aV6HwE102Uxzp-JYVhljd_6kg&s",
+      "price": 49.99,
+      "description": "Самая дешевая гречка на районе"
+    },
+    {
+      "id": 4,
+      "category": "Личная гигиена",
+      "name": "Мыло хозяйственное",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLILcSCXmrz1RnI74bxDkIw9Hr6T0CnH-3ew&s",
+      "price": 49.99,
+      "description": "Крутейшее мыло из натурального омолодяющего жира"
+    },
+    {
+      "id": 5,
+      "category": "Личная гигиена",
+      "name": "Дезодарант",
+      "image": "https://imgproxy.sbermarket.ru/imgproxy/size-500-500/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE1MTY2MDQ1L29yaWdpbmFsLzEvMjAyMi0wOC0yMlQyMyUzQTQyJTNBMTIuMTQ3MDAwJTJCMDAlM0EwMC8xNTE2NjA0NV8xLmpwZw==.jpg",
+      "price": 99.99,
+      "description": "Самый дешевый дезодорант для ArchLinux юзеров"
+    },
+    {
+      "id": 6,
+      "category": "Личная гигиена",
+      "name": "Дезодарант (V1P$)",
+      "image": "https://imgproxy.sbermarket.ru/imgproxy/size-680-680/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0ODkxMTYwL29yaWdpbmFsLzEvMjAyMy0wNy0wNFQxNSUzQTQxJTNBMzguODE2NjcwJTJCMDAlM0EwMC8yNDg5MTE2MF8xLmpwZw==.jpg",
+      "price": 199.99,
+      "description": "Самый премиальный дезодорант для прочих Linux юзеров"
+    },
+    {
+      "id": 7,
+      "category": "Напитки",
+      "name": "Коке кола",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1A8YrOF4sUoOo_X-O9tc8_SaheCiMyp6ww&s",
+      "price": 229.00,
+      "description": "Импортная, поэтому дорогая"
+    },
+    {
+      "id": 8,
+      "category": "Напитки",
+      "name": "Светой источнек",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIDmBrcwzWPdX9PuBR5qprxsQzJ1c72t0acA&s",
+      "price": 49.00,
+      "description": "Святая вода, прямиком из святой саган-горы"
+    }
+  ]
+}
