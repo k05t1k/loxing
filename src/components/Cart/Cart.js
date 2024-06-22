@@ -9,7 +9,8 @@ const Cart = () => {
     const { cart, removeFromCart } = useContext(CartContext);
 
     const totalPrice = cart.reduce((total, item) => total + item.price, 0);
-
+    const roundedTotalPrice = parseFloat(totalPrice.toFixed(2));
+    
     return (
         <Container maxWidth="md">
             <Grid container spacing={3}>
@@ -57,7 +58,7 @@ const Cart = () => {
                 <Grid item xs={12}>
                     <Paper elevation={3} sx={{ p: 2 }}>
                         <Typography variant="h5" gutterBottom>
-                            Вы потратите: {totalPrice}₽
+                            Вы потратите: {roundedTotalPrice}₽
                         </Typography>
                     </Paper>
                 </Grid>
